@@ -1,9 +1,9 @@
 > [!IMPORTANT]
-> If you're not there already, and if you consider our effort, we would really appreciate if you joined our [Animal Crossing Discord server](https://discord.gg/actreasurehub). We have a really cozy and nice community, owned by @melymels94, with the help of the co-owner [Kristy](https://github.com/rice-krispy2), as well as the rest of our welcoming staff! We'll be very happy to see new faces around :D
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We have a really cozy and nice community! We'll be very happy to see new faces around :D
 
 In this tutorial, I'll explain in detail how to fully set up your Ryujinx emulator.
 
-If you came from the [Ryujinx Installer Tool](https://github.com/rice-krispy2/ACTH-Installer) you can skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
 
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
