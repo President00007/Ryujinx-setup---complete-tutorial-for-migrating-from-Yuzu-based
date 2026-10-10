@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We have a really cozy and nice community! We'll be very happy to see new faces around :D
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We'll be very happy to see new faces around :D
 
 In this tutorial, I'll explain in detail how to fully set up your Ryujinx emulator.
 
