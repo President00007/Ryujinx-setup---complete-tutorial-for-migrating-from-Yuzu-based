@@ -66,7 +66,7 @@ To install DLCs and/or updates, head to Eden's window, and go to Files > Install
 ![update/dlc selection](https://github.com/user-attachments/assets/605f0559-d5fd-4401-a761-5546b3d108ee)
 
 
-- Go in the "Updates" folder, and select all game updates from there, then click on "Open". A new window asking for comfirmation to install will appear:
+- Go in the "Updates" folder, and select all game updates from there, then click on "Open". A new window asking for confirmation to install will appear:
 
 ![confirmation](https://github.com/user-attachments/assets/25a6a628-3a0c-4492-a16f-d7c4ea9f9689)
 
