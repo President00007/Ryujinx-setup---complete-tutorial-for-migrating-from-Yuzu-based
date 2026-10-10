@@ -1,6 +1,9 @@
-Here's the tutorial on how to correctly install Eden Emulator!
-DISCLAIMER: GAME FILES, FIRMWARE AND PROD.KEYS ARE ABSOLUTELY NOT PROVIDED, THAT'S PIRACY!!!
+> [!IMPORTANT]
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We have a really cozy and nice community! We'll be very happy to see new faces around :D
 
-It also includes how to maintain your save files from Ryujinx/Ryubing!
+In this tutorial, I'll explain in detail how to fully set up your Eden emulator. It applies to any Yuzu-based emulator, as all these forks have the same UI, meaning the process is the exact same!
 
-NOTE: this is a NON-NEXTENDO METHOD but you'll be able to play with other people by going to Multiplayer > Browse Public Game Lobby from the emulator's window, as long as the game supports LAN connectivity.
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-migrating-from-Yuzu-based/blob/main/README.md#moving-your-game-save-from-a-yuzu-based-emulator)
+
+I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
+
