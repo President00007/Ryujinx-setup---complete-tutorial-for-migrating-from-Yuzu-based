@@ -13,7 +13,7 @@ I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTOR
 > There's many specific executables of it, depending on the device you're downloading it for, so be sure to read it carefully to choose which one is more suitable for you!
 
 ![EdenDownload](https://github.com/user-attachments/assets/58cce2d7-9b5b-4193-9b0b-c76ddd0b7834)
-
+> This is a list of downloads for Windows, just as an example!
 You should be able to download a file called "Eden-OPERATINGSYSTEM-VERSION.zip" (as of writing the latest is 0.2.1)
 - Now extract the zip file somewhere you remember. You have the emulator ready to run! But it still needs Firmware and keys...
 >[!TIP]
@@ -31,45 +31,45 @@ Be sure to extract your keys files if you only have a .zip!
 
 It's going to show a pop-up telling you that keys are missing, like in the image shown below.
 
-![no keys found](ATTACH FILE)
+![no keys found](https://github.com/user-attachments/assets/7ec913d2-6602-47fe-9b3d-fc73bc8c7135)
 
 - Click on "Yes" as we're going to install them.
 
 - A new window will appear, you'll have to find the directory of your "prod.keys" file; when you've found it, single-click it to select it, and click on "Open" below
 
-![prodkeys selection](ATTACH FILE)
-
-> [!NOTE]
-> This image is in Italian, but it should still look like this.
+![prodkeys selection](https://github.com/user-attachments/assets/8d7ddaee-4a9c-4bce-b0c3-2df95c6bf395)
 
 Now your keys are setup! If you've done everything correctly, you should see this:
 
-![keys installed](ATTACH FILE)
+![keys installed](https://github.com/user-attachments/assets/454dd3fc-9c5e-401b-bb6d-e2a1914526ad)
 
 Repeat this exact process but with files related to "Firmware" instead: Head to Eden's window again, and go on Tools > Install Firmware. Note that in this case you'll be able to keep your files as a .zip, the reason is explained through the image below.
 
-![install firmware](ATTACH FILE)
+![install firmware](https://github.com/user-attachments/assets/a6bc0d20-9403-4116-91e1-38a4eda0215e)
 
 # Setting up your games, DLC and Updates folder.
 ## Games
 Before doing that, be sure to re-order your Switch games files, with DLCs and Updates placed in separated folders for easier accessibility. This is my setup recommendation:
 
-![games setup](ATTACH FILE)
+![games setup](https://github.com/user-attachments/assets/ffd46ede-1144-4371-9d18-dff5e7755b74)
 
 - Double click at the center of Eden's window, and select the directory where all the base games are
 
-![games selection](ATTACH FILE)
+![games selection](https://github.com/user-attachments/assets/b18ee96a-b943-4371-b3c8-7664f6da78dd)
+
 
 - Once you've found it, single-click on it to select it, and click on "Select folder" below.
 
 ## DLCs and Updates 
 To install DLCs and/or updates, head to Eden's window, and go to Files > Install file on NAND
 
-![update/dlc selection](ATTACH FILE)
+![update/dlc selection](https://github.com/user-attachments/assets/605f0559-d5fd-4401-a761-5546b3d108ee)
+
 
 - Go in the "Updates" folder, and select all game updates from there, then click on "Open". A new window asking for comfirmation to install will appear:
 
-![confirmation](ATTACH FILE)
+![confirmation](https://github.com/user-attachments/assets/25a6a628-3a0c-4492-a16f-d7c4ea9f9689)
+
 
 If all updates have been installed successfully, you can repeat the process with DLCs by selecting all files into the "DLCs" folder instead!
 
@@ -85,7 +85,7 @@ I'll cover how to move your progress from Ryujinx/Ryubing emulator to Eden. It a
 - Right click on Animal Crossing and click on "Open Save Data Location". This will create the shortcut to the save files of the game.
 - Move the save files you've backed up into the Ryujinx directory. It's going to look like this:
 
-![save setup](ATTACH FILE)
+![save setup](https://github.com/user-attachments/assets/e86c15ab-fe1c-4e88-8332-ef7884e83e44)
 
 If you've done everything correctly, you'll be able to see that your game has successfully loaded your data. You're all set!
 Thank you for following my tutorial! I hope it covered everything you needed! :D
