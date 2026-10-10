@@ -73,9 +73,9 @@ when you're done, it's gonna look like this:
 
 ![success1](https://github.com/user-attachments/assets/975a86e5-b864-4e3e-9693-2224b37425bc)
 
-# Moving your Animal Crossing: New Horizons save from a Yuzu-based emulator
+# Moving your game save from a Yuzu-based emulator
 
-I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citron in most cases) to Ryujinx. The process from the other emulator is the exact same for every possible kind you've been using, but I'll use Eden as an example. 
+I'll cover how to move your progress from any Yuzu-based emulator (Eden or Citron in most cases) to Ryujinx. The process from the other emulator is the exact same for every possible kind you've been using, but I'll use Eden as an example. It also applies to any possible game, with Animal Crossing: New Horizons as an example here 
 
 > [!CAUTION]
 > SKIP THIS METHOD AS IT IS NOT WORKING AT THE MOMENT
