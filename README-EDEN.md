@@ -3,7 +3,7 @@
 
 In this tutorial, I'll explain in detail how to fully set up your Eden emulator. It applies to any Yuzu-based emulator, as all these forks have the same UI, meaning the process is the exact same!
 
-If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](ATTACH FILE)
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/complete-tutorial-for-switch-emulators/blob/main/README-EDEN.md#moving-your-game-save-from-a-yuzu-based-emulator)
 
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
