@@ -77,13 +77,13 @@ If all updates have been installed successfully, you can repeat the process with
 
 I'll cover how to move your progress from Ryujinx/Ryubing emulator to Eden. It applies to any possible game, with Animal Crossing: New Horizons as an example here 
 
-(In Eden)
+(In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
 - Move all of the files you see somewhere you can remember, we're going to move them into the Eden folder.
 
-(In Ryujinx)
+(In Eden)
 - Right click on Animal Crossing and click on "Open Save Data Location". This will create the shortcut to the save files of the game.
-- Move the save files you've backed up into the Ryujinx directory. It's going to look like this:
+- Move the save files you've backed up into this new directory. It's going to look like this:
 
 ![save setup](https://github.com/user-attachments/assets/e86c15ab-fe1c-4e88-8332-ef7884e83e44)
 
