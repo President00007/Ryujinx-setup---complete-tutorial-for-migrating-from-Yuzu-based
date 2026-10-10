@@ -3,7 +3,7 @@
 
 In this tutorial, I'll explain in detail how to fully set up your Ryujinx emulator.
 
-If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-Animal-Crossing-New-Horizons/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](https://github.com/President00007/Ryujinx-setup---complete-tutorial-for-migrating-from-Yuzu-based/blob/main/README.md#moving-your-animal-crossing-new-horizons-save-from-a-yuzu-based-emulator)
 
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
