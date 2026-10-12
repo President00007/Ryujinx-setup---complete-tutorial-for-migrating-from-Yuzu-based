@@ -73,9 +73,12 @@ To install DLCs and/or updates, head to Citron's window, and go to Files > Insta
 If all updates have been installed successfully, you can repeat the process with DLCs by selecting all files into the "DLCs" folder instead.
 If not, make sure that both prod.keys and firmware have the exact same version!
 
-# Moving your game save from any emulator
+# Moving data
 
-I'll cover how to move your progress from Ryujinx/Ryubing emulator to Citron. It applies to any possible game AND emulator, with Animal Crossing: New Horizons as an example here.
+I'll cover how to move your progress from the official release version of Ryujinx emulator to Nextendo. Moving game saves in particular also applies to any possible game AND emulator. I made an example of a manual transfer with Animal Crossing: New Horizons as an example here.
+
+## Game saves (from any emulator)
+I'm going to use the non-nextendo version of Ryujinx as the "old" emulator as an example:
 
 (In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
@@ -87,7 +90,33 @@ I'll cover how to move your progress from Ryujinx/Ryubing emulator to Citron. It
 
 ![save setup](https://github.com/user-attachments/assets/e86c15ab-fe1c-4e88-8332-ef7884e83e44)
 
-If you've done everything correctly, after opening the game, you'll be able to see that it has successfully loaded your data. You're all set!
+If you've done everything correctly, after opening the game, you'll be able to see that it has successfully loaded your data.
+
+## Emulator settings (from non-Nextendo Eden/Citron)
+
+While you were setting everything up, you probably realized that your profile, amount of hours played and settings are set to their default. I'll show you how to 
+get back your original stuff.
+
+(In Eden/Citron)
+- Go on "File" at the upper left corner
+- "Open Eden (or Citron) Folder"
+You're going to see a bunch of folders and files, like these:
+
+![Eden folders setup](https://github.com/user-attachments/assets/0b569ab8-e5b9-483c-aac7-e6b7de4bfc84)
+
+- Select everything you see in here! Put them somewhere temporary as we're going to put them into Nextendo. These are all the settings and NAND files that your emulator saved.
+You can now close Ryujinx.
+
+(In the Nextendo Citron)
+- Go on "File" at the upper left corner
+- "Open Citron Folder"
+- Close the emulator (THIS IS IMPORTANT)
+- Drag & Drop all the files we moved before
+
+Open Nextendo again, and just like that, you'll be able to see all your statistics and settings applied again!
+
+Enjoy the emulation and the beauty that people brought thanks to such a passionate community! :D
+
 Thank you for following my tutorial! I hope it covered everything you needed! :D
 
 For any question, you're free to let us know in the Discord Server!
