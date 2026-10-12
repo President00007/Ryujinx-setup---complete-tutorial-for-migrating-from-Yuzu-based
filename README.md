@@ -106,9 +106,9 @@ If you get no errors and a pop-up says "successfully linked" then you're good to
 
 ![save setup](https://github.com/user-attachments/assets/8cdf34fb-4493-44ae-8828-5292fc517b8d)
 
+If you've done everything correctly, after opening the game, you'll be able to see that it has successfully loaded your data. You're all set!
+
 ![success 2](https://github.com/user-attachments/assets/83c6a773-073f-4a8e-839e-92bb18b0d7c3)
 
-If you've done everything correctly, you'll be able to see that your game has successfully loaded your data. You're all set!
 Thank you for following my tutorial! I hope it covered everything you needed! :D
-
 For any question, you're free to let us know in the Discord Server!
