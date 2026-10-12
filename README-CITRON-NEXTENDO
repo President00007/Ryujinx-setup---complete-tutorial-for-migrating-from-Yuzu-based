@@ -1,0 +1,91 @@
+> [!IMPORTANT]
+> If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We'll be very happy to see new faces around :D
+
+## ⚠️ THIS TUTORIAL USES NEXTENDO NETWORK ⚠️
+Be sure to visit the [official Nextendo Network site](https://nextendo.network/) and <ins>be sure to create an account in order to use online connectivity!</ins>
+
+Additionally, <ins>YOU NEED TO HAVE VERSIONS 22.5.0 OF BOTH FIRMWARE AND KEYS</ins> in order for Nextendo to work. <ins>DO NOT UPDATE THESE TO A LATER VERSION</ins>
+
+In this tutorial, I'll explain in detail how to fully set up your Citron emulator.
+
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save" section of this readme](ATTACH LINK)
+
+I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
+
+# Installing the emulator program
+- The first thing you need is, of course, the emulator. Be sure to go into [the Downloads section of Nextendo](https://nextendo.network/telecharger) and select Citron.
+
+![CitronDownload]()
+
+You should be able to download a file called "Citron-OPERATINGSYSTEM-VERSION.zip" (as of writing it uses the nightly version)
+- Now extract the zip file somewhere you remember. You have the emulator ready to run! But it still needs Firmware and keys...
+>[!TIP]
+> This is completely optional, but you can easily make a desktop shortcut of the emulator by:
+>	- Right clicking on the .exe
+>	- Going with your cursor onto "send to…"
+>	- Clicking on "create Desktop shortcut"
+
+# Installing prod.keys & title.keys and Firmware
+>[!NOTE]
+> Before proceeding, make sure you have all of the files above, as I won't cover how to obtain them for legal reasons.
+Be sure to extract your keys files if you only have a .zip!
+
+- Open the citron.exe file.
+
+It's going to show a pop-up telling you that keys are missing, like in the image shown below.
+
+![no keys found](ATTACH FILE)
+
+- Click on "Ok" as we're going to install them.
+
+- A new window will appear, you'll have to find the directory of your "prod.keys" file; when you've found it, single-click it to select it, and click on "Open" below
+
+![prodkeys selection](ATTACH FILE)
+
+Now your keys are setup! If you've done everything correctly, you should see a "Keys are successfully installed" prompt!
+Repeat this exact process but with files related to "Firmware" instead: Head to Citron's window again, and go on Tools > Install Firmware. Note that in this case you'll be able to keep your files as a .zip, the reason is explained through the image below.
+
+![install firmware](ATTACH FILE)
+
+# Setting up your games, DLC and Updates folder.
+## Games
+Before doing that, be sure to re-order your Switch games files, with DLCs and Updates placed in separated folders for easier accessibility. This is my setup recommendation:
+
+![games setup](https://github.com/user-attachments/assets/ffd46ede-1144-4371-9d18-dff5e7755b74)
+
+- Double click at the center of Citron's window, and select the directory where all the base games are
+
+![games selection](https://github.com/user-attachments/assets/b18ee96a-b943-4371-b3c8-7664f6da78dd)
+
+
+- Once you've found it, single-click on it to select it, and click on "Select folder" below.
+
+## DLCs and Updates 
+To install DLCs and/or updates, head to Citron's window, and go to Files > Install file on NAND
+
+![update/dlc selection](ATTACH FILE)
+
+
+- Go in the "Updates" folder, and select all game updates from there, then click on "Open". A new window asking for confirmation to install will appear. Confirm and it's going to install all the files you've selected.
+
+If all updates have been installed successfully, you can repeat the process with DLCs by selecting all files into the "DLCs" folder instead.
+If not, make sure that both prod.keys and firmware have the exact same version!
+
+# Moving your game save from any emulator
+
+I'll cover how to move your progress from Ryujinx/Ryubing emulator to Citron. It applies to any possible game AND emulator, with Animal Crossing: New Horizons as an example here 
+
+(In Ryujinx)
+- Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
+- Move all of the files you see somewhere you can remember, we're going to move them into the Citron folder.
+
+(In Citron)
+- Right click on Animal Crossing and click on "Open Save Data Location". This will create the shortcut to the save files of the game.
+- Move the save files you've backed up into this new directory. It's going to look like this:
+
+![save setup](https://github.com/user-attachments/assets/e86c15ab-fe1c-4e88-8332-ef7884e83e44)
+
+If you've done everything correctly, after opening the game, you'll be able to see that it has successfully loaded your data. You're all set!
+Thank you for following my tutorial! I hope it covered everything you needed! :D
+
+For any question, you're free to let us know in the Discord Server!
