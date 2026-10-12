@@ -8,7 +8,7 @@ Additionally, <ins>YOU NEED TO HAVE VERSIONS 22.5.0 OF BOTH FIRMWARE AND KEYS</i
 
 In this tutorial, I'll explain in detail how to fully set up your Ryujinx emulator.
 
-If you arrived here with the emulator already set up, you can easily skip to the ["setup save and data" section of this readme](ATTACH LINK)
+If you arrived here with the emulator already set up, you can easily skip to the ["setup save and data" section of this readme](https://github.com/President00007/complete-tutorial-for-switch-emulators/blob/main/README-RYU-NEXTENDO.md#moving-your-game-save-from-the-non-nextendo-version-of-ryujinx)
 
 I AM NOT AFFILIATED WITH NINTENDO IN ANY WAY, NOR I ENVY PIRACY. THIS IS A TUTORIAL JUST TO HELP WHO DOESN'T KNOW HOW TO SETUP THIS EMULATOR
 
