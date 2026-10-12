@@ -100,6 +100,8 @@ If you've done everything correctly, you'll be able to see that your game has su
 
 While you were setting everything up, you probably realized that your profile, amount of hours played and settings are set to their default. I'll show you how to 
 get back your original stuff.
+> [!WARNING]
+> it does NOT work from Eden or any other Yuzu fork!!
 
 (In Ryujinx)
 - Go on "File" at the upper left corner
