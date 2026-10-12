@@ -86,18 +86,15 @@ I'll cover how to move your progress from the official release version of Ryujin
 I'm going to use the non-nextendo version of Ryujinx as the "old" emulator as an example:
 
 (In Nextendo)
-- Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
+- Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files. It should look like this:
+![save setup](https://github.com/user-attachments/assets/8cdf34fb-4493-44ae-8828-5292fc517b8d)
+
 - Move all of the files you see somewhere you can remember, we're going to move them into the Ryujinx folder.
 
 (In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will create the shortcut to the save files of the game.
-- Move the save files you've backed up into the Ryujinx directory. It's going to look like this:
-
-![save setup](https://github.com/user-attachments/assets/8cdf34fb-4493-44ae-8828-5292fc517b8d)
-
-![success 2](https://github.com/user-attachments/assets/83c6a773-073f-4a8e-839e-92bb18b0d7c3)
-
-If you've done everything correctly, you'll be able to see that your game has successfully loaded your data. You're all set!
+- Move the save files you've backed up into the Ryujinx directory.
+If you've done everything correctly, you'll be able to see that your game has successfully loaded your data like in this image:
 
 ## Emulator settings (from non-Nextendo Ryujinx)
 
