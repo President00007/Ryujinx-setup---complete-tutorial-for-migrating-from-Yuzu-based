@@ -108,7 +108,7 @@ get back your original stuff.
 - "Open Ryujinx Folder"
 You're going to see a bunch of folders and files, like these:
 
-![Ryujinx folders setup](https://github.com/user-attachments/assets/83d07e06-cff2-49b2-beed-9641f7778368)
+![Ryujinx folders setup](https://github.com/user-attachments/assets/ca206040-d14d-441b-9608-825b34945dfd)
 
 - Select everything you see in here! Put them somewhere temporary as we're going to put them into Nextendo. These are all the settings and NAND files that your emulator saved.
 You can now close Ryujinx.
