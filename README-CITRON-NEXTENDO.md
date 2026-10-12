@@ -98,6 +98,7 @@ While you were setting everything up, you probably realized that your profile, a
 get back your original stuff.
 > [!WARNING]
 > it does NOT work from Ryujinx!!
+
 (In Eden/Citron)
 - Go on "File" at the upper left corner
 - "Open Eden (or Citron) Folder"
