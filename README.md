@@ -1,3 +1,5 @@
+# RYUBING'S DOWNLOAD LINK DOES NOT WORK AT THE MOMENT. IT MAY HAVE BEEN SHUT DOWN!!!
+
 > [!IMPORTANT]
 > If you're not there already, and if you consider our effort, we would really appreciate if you joined my [Switch Emulators server](https://discord.gg/hPNG4QeskE). We'll be very happy to see new faces around :D
 
