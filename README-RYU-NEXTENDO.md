@@ -83,6 +83,7 @@ when you're done, it's gonna look like this:
 I'll cover how to move your progress from the official release version of Ryujinx emulator to Nextendo. Moving game saves in particular also applies to any possible game AND emulator. I made an example of a manual transfer with Animal Crossing: New Horizons as an example here.
 
 ## Game saves (from any emulator)
+I'm going to use the non-nextendo version of Ryujinx as the "old" emulator as an example:
 
 (In Nextendo)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
