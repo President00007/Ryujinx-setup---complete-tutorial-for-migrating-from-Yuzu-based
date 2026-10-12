@@ -73,9 +73,9 @@ To install DLCs and/or updates, head to Eden's window, and go to Files > Install
 
 If all updates have been installed successfully, you can repeat the process with DLCs by selecting all files into the "DLCs" folder instead!
 
-# Moving your game save from a Yuzu-based emulator
+# Moving your game save from any emulator
 
-I'll cover how to move your progress from Ryujinx/Ryubing emulator to Eden. It applies to any possible game, with Animal Crossing: New Horizons as an example here 
+I'll cover how to move your progress from Ryujinx/Ryubing emulator to Eden. It applies to any possible game AND emulator, with Animal Crossing: New Horizons as an example here 
 
 (In Ryujinx)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
