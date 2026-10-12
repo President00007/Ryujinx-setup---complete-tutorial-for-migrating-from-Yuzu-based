@@ -78,11 +78,11 @@ when you're done, it's gonna look like this:
 
 ![success1](https://github.com/user-attachments/assets/975a86e5-b864-4e3e-9693-2224b37425bc)
 
-# Moving your game save from the non-Nextendo version of Ryujinx
+# Moving data
 
-I'll cover how to move your progress from the official release version of Ryujinx emulator to Nextendo. Moving game saves in particular also applies to any possible game, it should load them just fine since they share the same folders, but depending on many factors, that's not always the case. If that's the case, I made an example of a manual transfer with Animal Crossing: New Horizons as an example here.
+I'll cover how to move your progress from the official release version of Ryujinx emulator to Nextendo. Moving game saves in particular also applies to any possible game AND emulator. I made an example of a manual transfer with Animal Crossing: New Horizons as an example here.
 
-## Game saves
+## Game saves (from any emulator)
 
 (In Nextendo)
 - Right click on Animal Crossing and click on "Open Device Save Directory". This will open a new window with all your ACNH save files.
@@ -98,7 +98,7 @@ I'll cover how to move your progress from the official release version of Ryujin
 
 If you've done everything correctly, you'll be able to see that your game has successfully loaded your data. You're all set!
 
-## Emulator settings
+## Emulator settings (from non-Nextendo Ryujinx)
 
 While you were setting everything up, you probably realized that your profile, amount of hours played and settings are set to their default. I'll show you how to 
 get back your original stuff.
