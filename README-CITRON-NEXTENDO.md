@@ -96,7 +96,8 @@ If you've done everything correctly, after opening the game, you'll be able to s
 
 While you were setting everything up, you probably realized that your profile, amount of hours played and settings are set to their default. I'll show you how to 
 get back your original stuff.
-
+> [!WARNING]
+> it does NOT work from Ryujinx!!
 (In Eden/Citron)
 - Go on "File" at the upper left corner
 - "Open Eden (or Citron) Folder"
